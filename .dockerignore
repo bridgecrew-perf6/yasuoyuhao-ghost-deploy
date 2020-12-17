@@ -1,0 +1,13 @@
+.git
+.firebase
+.editorconfig
+/node_modules
+/e2e
+/docs
+.gitignore
+*.zip
+*.md
+
+
+# Ignore devspace.yaml file to prevent image rebuilding after config changes
+devspace.yaml
